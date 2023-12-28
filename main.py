@@ -62,6 +62,6 @@ async def quit_tts(ctx, *args):
         ,color=discord.Color.blue)
         await ctx.send(embed=embed)
 
-bot.run('MTE4ODI4NDk5Nzg1NDA0NDI0Mg.G28iKw.pjqpiFkGSAKecdzIVd1qgdKDdPztBEY9N6N7uU')
+bot.run('get your token')
 
 
