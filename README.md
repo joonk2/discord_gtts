@@ -8,5 +8,9 @@ if you didn't download things down below yet, go ahead. <br>
 ## (might be muted, make sure to check it out.)
 <br>
 
-https://github.com/joonk2/discord_gtts/assets/153247950/89a81fce-4ddc-495a-9b79-5bfeb485b837
+
+
+https://github.com/joonk2/discord_gtts/assets/153247950/7f5613c2-41a5-43d5-82b4-ca25fb47d53d
+
+
 
